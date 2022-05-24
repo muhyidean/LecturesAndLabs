@@ -1,0 +1,1575 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-07-05T16:39:45</date>
+  <millis>1436132385408</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>lesson10.lecture.logging.defaultlogging.Test</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>test filehandler</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-07-05T16:40:53</date>
+  <millis>1436132453365</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>lesson10.lecture.logging.defaultlogging2.Test</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>test filehandler</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-07-05T16:41:29</date>
+  <millis>1436132489515</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>lesson10.lecture.logging.defaultlogging2.Test</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>test filehandler</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-07-05T18:32:06</date>
+  <millis>1436139126264</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>lesson10.lecture.logging.defaultlogging2.Test</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>test filehandler</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-07-10T09:27:44</date>
+  <millis>1436538464094</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>lesson10.lecture.logging.defaultlogging2.Test</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>test filehandler</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-07-10T09:35:04</date>
+  <millis>1436538904880</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>IOException thrown: Caught 2nd IOException: error closing readers</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-07-10T09:36:20</date>
+  <millis>1436538980171</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch2.MyClass</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>IOException thrown: 2nd IOException</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-07-10T09:38:33</date>
+  <millis>1436539113340</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch2.MyClass2</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>IOException thrown: 2nd IOException</message>
+</record>
+<record>
+  <date>2015-07-10T09:38:33</date>
+  <millis>1436539113366</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>lesson10.lecture.trickycatch2.MyClass2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2nd IOException</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-07-10T09:41:13</date>
+  <millis>1436539273353</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch2.MyClass2</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>IOException thrown: 2nd IOException</message>
+</record>
+<record>
+  <date>2015-07-10T09:41:13</date>
+  <millis>1436539273394</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>lesson10.lecture.trickycatch2.MyClass2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2nd IOException</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-07-10T09:41:43</date>
+  <millis>1436539303822</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch2.MyClass2</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>IOException thrown: textt (The system cannot find the file specified)</message>
+</record>
+<record>
+  <date>2015-07-10T09:41:43</date>
+  <millis>1436539303850</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>lesson10.lecture.trickycatch2.MyClass2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>textt (The system cannot find the file specified)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-07-10T09:42:56</date>
+  <millis>1436539376140</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>IOException thrown: Caught 2nd IOException: error closing readers</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-07-10T09:43:10</date>
+  <millis>1436539390096</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>IOException thrown: Caught 2nd IOException: error closing readers</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-07-10T09:45:30</date>
+  <millis>1436539530254</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch3_suppressed.MyClass</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>Main IOException thrown: 2nd IOException</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-07-10T09:50:21</date>
+  <millis>1436539821827</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>Main exception: readLine failed</message>
+</record>
+<record>
+  <date>2015-07-10T09:50:21</date>
+  <millis>1436539821900</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff</class>
+  <method>lambda$0</method>
+  <thread>1</thread>
+  <message>Suppressed message: Closing MyFileReader threw an exception</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-07-10T09:51:08</date>
+  <millis>1436539868187</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Main exception: readLine failed</message>
+</record>
+<record>
+  <date>2015-07-10T09:51:08</date>
+  <millis>1436539868261</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff2</class>
+  <method>lambda$0</method>
+  <thread>1</thread>
+  <message>Suppressed message: Closing MyFileReader threw an exception</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-07-10T09:51:37</date>
+  <millis>1436539897198</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Main exception: Closing MyFileReader threw an exception</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-07-10T11:56:12</date>
+  <millis>1436547372422</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>lesson10.lecture.logging.defaultlogging2.Test</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>test filehandler</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-07-10T11:57:28</date>
+  <millis>1436547448315</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>lesson10.lecture.logging.defaultlogging2.Test</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>test filehandler</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-07-10T13:09:05</date>
+  <millis>1436551745395</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch2.MyClass2</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>IOException thrown: 2nd IOException</message>
+</record>
+<record>
+  <date>2015-07-10T13:09:05</date>
+  <millis>1436551745423</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>lesson10.lecture.trickycatch2.MyClass2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2nd IOException</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-07-10T14:35:19</date>
+  <millis>1436556919005</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>1st IOException: textt (The system cannot find the file specified)</message>
+</record>
+<record>
+  <date>2015-07-10T14:35:19</date>
+  <millis>1436556919033</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>Caught 2nd IOException: error closing readers</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-07-10T14:40:29</date>
+  <millis>1436557229353</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch2.MyClass2</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>IOException thrown: textt (The system cannot find the file specified)</message>
+</record>
+<record>
+  <date>2015-07-10T14:40:29</date>
+  <millis>1436557229372</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>lesson10.lecture.trickycatch2.MyClass2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>textt (The system cannot find the file specified)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-07-10T14:40:53</date>
+  <millis>1436557253071</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch2.MyClass2</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>IOException thrown: 2nd IOException</message>
+</record>
+<record>
+  <date>2015-07-10T14:40:53</date>
+  <millis>1436557253099</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>lesson10.lecture.trickycatch2.MyClass2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2nd IOException</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-07-10T14:41:39</date>
+  <millis>1436557299919</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch2.MyClass2</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>IOException thrown: 2nd IOException</message>
+</record>
+<record>
+  <date>2015-07-10T14:41:39</date>
+  <millis>1436557299945</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>lesson10.lecture.trickycatch2.MyClass2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2nd IOException</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-07-10T14:45:12</date>
+  <millis>1436557512913</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>lesson10.lecture.trickycatch3_suppressed.MyClass2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Main IOException thrown: textt (The system cannot find the file specified)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-07-10T14:45:26</date>
+  <millis>1436557526411</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>lesson10.lecture.trickycatch3_suppressed.MyClass2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Main IOException thrown: 2nd IOException</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-07-10T14:45:44</date>
+  <millis>1436557544438</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>lesson10.lecture.trickycatch3_suppressed.MyClass2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Main IOException thrown: textt (The system cannot find the file specified)</message>
+</record>
+<record>
+  <date>2015-07-10T14:45:44</date>
+  <millis>1436557544512</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>lesson10.lecture.trickycatch3_suppressed.MyClass2</class>
+  <method>lambda$0</method>
+  <thread>1</thread>
+  <message>Suppressed message: 2nd IOException</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-07-10T14:49:56</date>
+  <millis>1436557796476</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClass</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>Main exception: textt (The system cannot find the file specified)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-07-10T14:51:49</date>
+  <millis>1436557909151</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Main exception: readLine failed</message>
+</record>
+<record>
+  <date>2015-07-10T14:51:49</date>
+  <millis>1436557909223</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff2</class>
+  <method>lambda$0</method>
+  <thread>1</thread>
+  <message>Suppressed message: Closing MyFileReader threw an exception</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-08-10T11:26:45</date>
+  <millis>1439224005219</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>IOException thrown: Caught 2nd IOException: error closing readers</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-08-10T11:28:25</date>
+  <millis>1439224105022</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>IOException thrown: textt (The system cannot find the file specified)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-08-10T11:33:54</date>
+  <millis>1439224434676</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClass</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>Main exception: textt (The system cannot find the file specified)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-08-10T11:35:15</date>
+  <millis>1439224515751</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Main exception: readLine failed</message>
+</record>
+<record>
+  <date>2015-08-10T11:35:15</date>
+  <millis>1439224515825</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff2</class>
+  <method>lambda$0</method>
+  <thread>1</thread>
+  <message>Suppressed message: Closing MyFileReader threw an exception</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-07-14T08:38:14</date>
+  <millis>1500039494966</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClass</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>Main exception: tex (The system cannot find the file specified)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-07-14T08:38:58</date>
+  <millis>1500039538440</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>Main exception: readLine failed</message>
+</record>
+<record>
+  <date>2017-07-14T08:38:58</date>
+  <millis>1500039538513</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff</class>
+  <method>lambda$0</method>
+  <thread>1</thread>
+  <message>Suppressed message: Closing MyFileReader threw an exception</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-07-14T08:39:45</date>
+  <millis>1500039585692</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Main exception: readLine failed</message>
+</record>
+<record>
+  <date>2017-07-14T08:39:45</date>
+  <millis>1500039585768</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff2</class>
+  <method>lambda$0</method>
+  <thread>1</thread>
+  <message>Suppressed message: Closing MyFileReader threw an exception</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-07-14T10:59:55</date>
+  <millis>1500047995147</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>IOException thrown: textt (The system cannot find the file specified)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-07-14T11:00:30</date>
+  <millis>1500048030590</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>IOException thrown: Caught 2nd IOException: error closing readers</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-07-14T11:04:18</date>
+  <millis>1500048258588</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClass</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>Main exception: textt (The system cannot find the file specified)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-07-14T11:05:48</date>
+  <millis>1500048348340</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>Main exception: readLine failed</message>
+</record>
+<record>
+  <date>2017-07-14T11:05:48</date>
+  <millis>1500048348424</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff</class>
+  <method>lambda$0</method>
+  <thread>1</thread>
+  <message>Suppressed message: Closing MyFileReader threw an exception</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-09-22T08:59:25</date>
+  <millis>1506088765031</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>IOException thrown: Caught 2nd IOException: error closing readers</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-09-22T09:00:34</date>
+  <millis>1506088834767</millis>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>IOException thrown: Caught 2nd IOException: error closing readers</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-09-22T09:01:06</date>
+  <millis>1506088866811</millis>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>IOException thrown: Debug Statement: Caught 2nd IOException: error closing readers</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-09-22T09:03:46</date>
+  <millis>1506089026452</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>IOException thrown: Caught 2nd IOException: error closing readers</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-09-22T09:03:59</date>
+  <millis>1506089039471</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>IOException thrown: Caught 2nd IOException: error closing readers</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-09-22T09:06:15</date>
+  <millis>1506089175608</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClass</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>Main exception: textt (The system cannot find the file specified)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-09-22T09:06:56</date>
+  <millis>1506089216019</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Main exception: readLine failed</message>
+</record>
+<record>
+  <date>2017-09-22T09:06:56</date>
+  <millis>1506089216092</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff2</class>
+  <method>lambda$0</method>
+  <thread>1</thread>
+  <message>Suppressed message: Closing MyFileReader threw an exception</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-09-22T09:07:31</date>
+  <millis>1506089251445</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>Main exception: readLine failed</message>
+</record>
+<record>
+  <date>2017-09-22T09:07:31</date>
+  <millis>1506089251519</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff</class>
+  <method>lambda$0</method>
+  <thread>1</thread>
+  <message>Suppressed message: Closing MyFileReader threw an exception</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-09-22T11:32:48</date>
+  <millis>1506097968091</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>IOException thrown: Caught 2nd IOException: error closing readers</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-09-22T11:33:19</date>
+  <millis>1506097999805</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>IOException thrown: 1st IOException: textt (The system cannot find the file specified)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-09-22T11:40:26</date>
+  <millis>1506098426804</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Main exception: readLine failed</message>
+</record>
+<record>
+  <date>2017-09-22T11:40:26</date>
+  <millis>1506098426879</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff2</class>
+  <method>lambda$0</method>
+  <thread>1</thread>
+  <message>Suppressed message: Closing MyFileReader threw an exception</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-08-10T02:41:34.055400100Z</date>
+  <millis>1533868894055</millis>
+  <nanos>400100</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>1st IOException: textt (The system cannot find the file specified)</message>
+</record>
+<record>
+  <date>2018-08-10T02:41:34.148152Z</date>
+  <millis>1533868894148</millis>
+  <nanos>152000</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>Caught 2nd IOException: error closing readers</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-08-10T02:43:36.122079500Z</date>
+  <millis>1533869016122</millis>
+  <nanos>79500</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>IOException thrown: Caught 2nd IOException: error closing readers</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-08-10T13:26:13.323795500Z</date>
+  <millis>1533907573323</millis>
+  <nanos>795500</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>1st IOException: textt (The system cannot find the file specified)</message>
+</record>
+<record>
+  <date>2018-08-10T13:26:13.323795500Z</date>
+  <millis>1533907573323</millis>
+  <nanos>795500</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>Caught 2nd IOException: error closing readers</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-08-10T13:34:07.164106800Z</date>
+  <millis>1533908047164</millis>
+  <nanos>106800</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClass</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>Main exception: textt (The system cannot find the file specified)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-08-10T13:35:52.340003800Z</date>
+  <millis>1533908152340</millis>
+  <nanos>3800</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Main exception: readLine failed</message>
+</record>
+<record>
+  <date>2018-08-10T13:35:52.359628700Z</date>
+  <millis>1533908152359</millis>
+  <nanos>628700</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff2</class>
+  <method>lambda$0</method>
+  <thread>1</thread>
+  <message>Suppressed message: Closing MyFileReader threw an exception</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-08-10T16:07:50.242385900Z</date>
+  <millis>1533917270242</millis>
+  <nanos>385900</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>IOException thrown: Caught 2nd IOException: error closing readers</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-08-10T16:13:22.253746800Z</date>
+  <millis>1533917602253</millis>
+  <nanos>746800</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>Main exception: textt (The system cannot find the file specified)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-08-10T16:14:58.195662400Z</date>
+  <millis>1533917698195</millis>
+  <nanos>662400</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Main exception: readLine failed</message>
+</record>
+<record>
+  <date>2018-08-10T16:14:58.198794400Z</date>
+  <millis>1533917698198</millis>
+  <nanos>794400</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff2</class>
+  <method>lambda$0</method>
+  <thread>1</thread>
+  <message>Suppressed message: Closing MyFileReader threw an exception</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-12-12T21:41:58.909716700Z</date>
+  <millis>1576186918909</millis>
+  <nanos>716700</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>IOException thrown: Caught 2nd IOException: error closing readers</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-12-12T21:42:27.552861100Z</date>
+  <millis>1576186947552</millis>
+  <nanos>861100</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass_old</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>1st IOException: textt (The system cannot find the file specified)</message>
+</record>
+<record>
+  <date>2019-12-12T21:42:27.566814400Z</date>
+  <millis>1576186947566</millis>
+  <nanos>814400</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass_old</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>Caught 2nd IOException: error closing readers</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-12-12T21:43:17.066094400Z</date>
+  <millis>1576186997066</millis>
+  <nanos>94400</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>IOException thrown: Caught 2nd IOException: error closing readers</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-12-12T21:43:26.222067500Z</date>
+  <millis>1576187006222</millis>
+  <nanos>67500</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass_old</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>1st IOException: textt (The system cannot find the file specified)</message>
+</record>
+<record>
+  <date>2019-12-12T21:43:26.235032500Z</date>
+  <millis>1576187006235</millis>
+  <nanos>32500</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass_old</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>Caught 2nd IOException: error closing readers</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-12-12T21:44:51.024280300Z</date>
+  <millis>1576187091024</millis>
+  <nanos>280300</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass_old</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>1st IOException: textt (The system cannot find the file specified)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-12-12T21:46:09.180284800Z</date>
+  <millis>1576187169180</millis>
+  <nanos>284800</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>IOException thrown: Caught 2nd IOException: error closing readers</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-12-12T21:46:22.247529600Z</date>
+  <millis>1576187182247</millis>
+  <nanos>529600</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>IOException thrown: Caught 2nd IOException: error closing readers</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-12-12T21:46:28.108588200Z</date>
+  <millis>1576187188108</millis>
+  <nanos>588200</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass_old</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>1st IOException: textt (The system cannot find the file specified)</message>
+</record>
+<record>
+  <date>2019-12-12T21:46:28.124544500Z</date>
+  <millis>1576187188124</millis>
+  <nanos>544500</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass_old</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>Caught 2nd IOException: error closing readers</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-12-12T21:50:46.472425900Z</date>
+  <millis>1576187446472</millis>
+  <nanos>425900</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>IOException thrown: Caught 2nd IOException: error closing readers</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-12-12T21:51:19.025887800Z</date>
+  <millis>1576187479025</millis>
+  <nanos>887800</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass_old</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>1st IOException: textt (The system cannot find the file specified)</message>
+</record>
+<record>
+  <date>2019-12-12T21:51:19.037853700Z</date>
+  <millis>1576187479037</millis>
+  <nanos>853700</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass_old</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>Caught 2nd IOException: error closing readers</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-12-12T21:53:58.409845400Z</date>
+  <millis>1576187638409</millis>
+  <nanos>845400</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass_old</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>1st IOException: textt (The system cannot find the file specified)</message>
+</record>
+<record>
+  <date>2019-12-12T21:53:58.423807400Z</date>
+  <millis>1576187638423</millis>
+  <nanos>807400</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass_old</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>Caught 2nd IOException: error closing readers</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-12-12T21:54:18.276487100Z</date>
+  <millis>1576187658276</millis>
+  <nanos>487100</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>Main exception: textt (The system cannot find the file specified)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-12-12T21:54:45.653126700Z</date>
+  <millis>1576187685653</millis>
+  <nanos>126700</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Main exception: readLine failed</message>
+</record>
+<record>
+  <date>2019-12-12T21:54:45.667083700Z</date>
+  <millis>1576187685667</millis>
+  <nanos>83700</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff2</class>
+  <method>lambda$0</method>
+  <thread>1</thread>
+  <message>Suppressed message: Closing MyFileReader threw an exception</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-12-12T21:56:39.714504600Z</date>
+  <millis>1576187799714</millis>
+  <nanos>504600</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Main exception: readLine failed</message>
+</record>
+<record>
+  <date>2019-12-12T21:56:39.728467900Z</date>
+  <millis>1576187799728</millis>
+  <nanos>467900</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff2</class>
+  <method>lambda$0</method>
+  <thread>1</thread>
+  <message>Suppressed message: Exception in closing BufferedReader.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-12-13T17:29:15.843926Z</date>
+  <millis>1576258155843</millis>
+  <nanos>926000</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass_old</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>1st IOException: textt (The system cannot find the file specified)</message>
+</record>
+<record>
+  <date>2019-12-13T17:29:15.855893200Z</date>
+  <millis>1576258155855</millis>
+  <nanos>893200</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass_old</class>
+  <method>handleFile</method>
+  <thread>1</thread>
+  <message>Caught 2nd IOException: error closing readers</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-12-13T17:29:23.286141Z</date>
+  <millis>1576258163286</millis>
+  <nanos>141000</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch1.MyClass</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>IOException thrown: Caught 2nd IOException: error closing readers</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-12-13T17:37:36.164972300Z</date>
+  <millis>1576258656164</millis>
+  <nanos>972300</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Main exception: readLine failed</message>
+</record>
+<record>
+  <date>2019-12-13T17:37:36.178935800Z</date>
+  <millis>1576258656178</millis>
+  <nanos>935800</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>lesson10.lecture.trickycatch4_trywithres.MyClassMyBuff2</class>
+  <method>lambda$0</method>
+  <thread>1</thread>
+  <message>Suppressed message: Exception in closing BufferedReader.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-09-26T01:31:38.319194900Z</date>
+  <millis>1632619898319</millis>
+  <nanos>194900</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>lesson10.lecture.trickycatch3_suppressed.MyClass2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Main IOException thrown: textt (The system cannot find the file specified)</message>
+</record>
+<record>
+  <date>2021-09-26T01:31:38.387012100Z</date>
+  <millis>1632619898387</millis>
+  <nanos>12100</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>lesson10.lecture.trickycatch3_suppressed.MyClass2</class>
+  <method>lambda$0</method>
+  <thread>1</thread>
+  <message>Suppressed message: 2nd IOException</message>
+</record>
+</log>
