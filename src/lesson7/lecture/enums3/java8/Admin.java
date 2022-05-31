@@ -2,7 +2,7 @@ package lesson7.lecture.enums3.java8;
 
 import java.time.LocalDate;
 
-public class Admin {
+public class Admin{
 	private DisplayItem[] items;
 	public Admin() {
 		populateItems();

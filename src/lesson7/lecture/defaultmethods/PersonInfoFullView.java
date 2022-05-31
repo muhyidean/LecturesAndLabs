@@ -3,6 +3,7 @@ package lesson7.lecture.defaultmethods;
 public class PersonInfoFullView implements NameAddress {
 	private String firstName, middleName, lastName;
 	private Address address;
+
 	PersonInfoFullView(String first, String middle, String last, 
 			String st1, String st2, String c, String st, String z) {
 		this.firstName = first;

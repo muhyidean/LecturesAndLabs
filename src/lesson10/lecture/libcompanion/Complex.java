@@ -7,7 +7,7 @@ public class Complex {
 	static Function<List<Employee>, List<Employee>> employeeSorter =
 		list -> list.stream()
         .sorted(Comparator.comparing((Employee e) -> e.getName())
-     		             .thenComparing((Employee e) -> e.getSalary(), 
+				.thenComparing((Employee e) -> e.getSalary(),
      		            		 Comparator.reverseOrder()))
         .collect(Collectors.toList());
 	

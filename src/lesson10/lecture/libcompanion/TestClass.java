@@ -4,13 +4,17 @@ import static org.junit.Assert.*;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.junit.Assert;
+import org.junit.Before;
 import org.junit.Test;
 
 
 public class TestClass {
+
 	/* Tests core piece of employeeSorter */
 	@Test
     public void compareEmployees() {
+
 		Employee joe1 = new Employee("Joe", 50000);
 		Employee joe2 = new Employee("Joe", 70000);
 		Employee jim = new Employee("Jim", 70000);
@@ -20,6 +24,8 @@ public class TestClass {
 		
 		//verify that joe2 comes before joe1
 		assert(LibraryCompanion.compareEmps(joe2, joe1) < 0);
+
+
     }
 	
 	//Can also test sorted order
@@ -28,6 +34,8 @@ public class TestClass {
 		List<Employee> input = data();
 		List<Employee> sorted = sorted();
 		assertEquals(sorted, ComplexMethRef.employeeSorter.apply(input));
+
+
  		
 		
 	}

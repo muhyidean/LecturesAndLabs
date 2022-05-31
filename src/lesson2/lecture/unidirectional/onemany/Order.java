@@ -21,4 +21,12 @@ public class Order {
 		return orderDate + ": " + 
 	              items.toString();
 	}
+
+	public List<Item> getItems() {
+		return items;
+	}
+
+	public LocalDate getOrderDate() {
+		return orderDate;
+	}
 }

@@ -15,23 +15,31 @@ import java.util.function.*;
  * 
  */  
 public class WordsAllGood {
+	static List<String> words = Arrays.asList("Tom", "Joseph", "Richard");
+
 	public static void main(String[] args) {
 		goodSort1();
 		goodSort2();
+		System.out.println(words);
 	}
 	
 	public static void goodSort1() {
-		List<String> words = Arrays.asList("Tom", "Joseph", "Richard");
+//		List<String> words = Arrays.asList("Tom", "Joseph", "Richard");
 		Stream<String> longestFirst  
-		    = words.stream().sorted(Comparator.comparing(String::length).reversed());
-		System.out.println(longestFirst .collect(Collectors.toList()));
+		    = words.stream()
+				.sorted(Comparator.comparing(String::length).reversed());
+
+		System.out.println(
+				longestFirst
+				.collect(Collectors.toList()));
 	}
 	
 	public static void goodSort2() {
 		Function<String, Integer> sortByLength = x -> x.length();
 		List<String> words = Arrays.asList("Tom", "Joseph", "Richard");
 		Stream<String> longestFirst  
-		    = words.stream().sorted(Comparator.comparing(sortByLength).reversed());
+		    = words.stream()
+				.sorted(Comparator.comparing(sortByLength).reversed());
 		System.out.println(longestFirst .collect(Collectors.toList()));
 	}
 }

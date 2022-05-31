@@ -12,6 +12,7 @@ public enum Constants {
 	Constants(String str) {
 		strval = str;
 	}
+
 	public int intval() {
 		return intval;
 	}

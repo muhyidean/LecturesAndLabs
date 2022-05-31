@@ -159,15 +159,29 @@ public class MyStringListWithIterator implements Iterable<String> {
 		}
 		
 		////// New forEach default method in Iterator
-		
+
+		// Form 1
 		Consumer<String> consumer = new Consumer<String>() {
 			@Override
 			public void accept(String s) {
-				System.out.println(s);				
-			}	
+				System.out.println(s);
+			}
 		};
+
+
+		// Form 2
+//		Consumer<String> consumer = (String s) -> {
+//			System.out.println(s);
+//		};
+
+		// Form 3
+//		Consumer<String> consumer = s -> System.out.println(s);
+
+
+
 		System.out.println("------using new forEach method------");
 		l.forEach(consumer);
+
 		//l.forEach(x -> System.out.println(x));
 
 	}

@@ -9,7 +9,7 @@ public class Test {
 		list.add(m);
 		MyList<Manager> list2 = new MyListImpl<Manager>();
 		list2.add(m);
-		list.addAll(list2); //compiler error
+//		list.addAll(list2); //compiler error
 		
 //		ArrayList<? extends Integer> list3 = new ArrayList<>();
 //		list3.add(2);

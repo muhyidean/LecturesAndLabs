@@ -29,6 +29,9 @@ public class Main {
 		      LocalDate.of(2015, 8, 2), .05);  //Gold members get a fixed discount
 		System.out.println(ordinaryCart.printReceipt());
 		System.out.println(goldCart.printReceipt());
+		System.out.println("===");
+
+		System.out.println(ShoppingCart.computeBaseCost(itemsForGoldCart));
 	}
 
 }

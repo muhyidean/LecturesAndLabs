@@ -11,6 +11,7 @@ public interface ShoppingCart {
 	default double getDiscount() {
 		return 0.0;
 	}
+
 	static double computeBaseCost(List<Item> items) {
 		double accum = 0.0;
 		for(Item item : items) {

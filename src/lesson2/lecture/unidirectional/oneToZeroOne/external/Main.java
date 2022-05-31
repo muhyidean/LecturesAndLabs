@@ -11,6 +11,7 @@ public class Main {
 		Customer c2 = new Customer("John");
 		c1.setCart();
 		System.out.println(c1.getCart());
+
 		c1.setCart();
 		System.out.println(c1.getCart());
 //		

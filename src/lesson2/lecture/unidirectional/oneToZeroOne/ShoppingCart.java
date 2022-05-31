@@ -17,8 +17,7 @@ public class ShoppingCart {
 	
 	public static ShoppingCart newShoppingCart(
 			                       Customer cust) {
-		
-		
+
 		if (cust == null)
 			throw new NullPointerException(
 					              "Null customer");

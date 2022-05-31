@@ -17,6 +17,7 @@ import java.util.stream.Stream;
  *
  */
 public class EasierSolution {
+
 	public List<String> getCanonicalPaths(String[] dirs)  {
 		return Stream.of(dirs).map(
 			path -> getCanonicalPathHelper(path))

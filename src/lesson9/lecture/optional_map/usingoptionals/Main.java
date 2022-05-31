@@ -12,7 +12,8 @@ public class Main {
 	
 	private static boolean personFromFairfield(List<Person> persons) {
 		for(Person p: persons) {
-			if(Optional.ofNullable(p).map(x -> x.getAddress())
+			if(Optional.ofNullable(p)
+					.map(x -> x.getAddress())
 					.map(x->x.getCity())
 					.orElse("").equals("Fairfield")) {
 				return true;

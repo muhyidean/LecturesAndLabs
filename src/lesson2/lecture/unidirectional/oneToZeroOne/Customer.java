@@ -9,6 +9,7 @@ public class Customer {
 	public String getName() {
 		return name;
 	}
+
 	public	void setCart() {
 		this.cart = ShoppingCart.newShoppingCart(this);
 	}

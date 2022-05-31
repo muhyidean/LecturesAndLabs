@@ -5,9 +5,10 @@ import java.util.function.BiFunction;
 public class MethodRefMath {
 	public static void main(String[] args) {
 		BiFunction<Integer, Integer, Double> f =
-			//(x,y) -> Math.pow(x, y);
-			Math::pow;
+				Math::pow;
+				//(x,y) -> Math.pow(x, y);
+
 		System.out.println(f.apply(2, 3).intValue());
-		
+
 	}
 }
