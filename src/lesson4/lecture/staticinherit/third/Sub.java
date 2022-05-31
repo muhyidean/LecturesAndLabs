@@ -5,6 +5,7 @@ public class Sub extends Super {
 	public static void main(String[] args) {
 		
 	}
+
 //	public void tryit() {
 //		System.out.println("trying it too");
 //	}

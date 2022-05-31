@@ -16,6 +16,8 @@ public class Student {
 		this.address = address;
 	}
 
+//	public abstract void doSomething();
+
 	public int getId() {
 		return id;
 	}
@@ -47,7 +49,7 @@ public class Student {
 	public void setAddress(Address address) {
 		this.address = address;
 	}
-	
-	
-	
+
+
+
 }

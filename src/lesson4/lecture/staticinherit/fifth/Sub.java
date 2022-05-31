@@ -6,7 +6,9 @@ package lesson4.lecture.staticinherit.fifth;
 //static method and binds the method to that one.
 public class Sub extends Super {
 	public static void main(String[] args) {
+
 		tryit();
+
 	}
 
 }
